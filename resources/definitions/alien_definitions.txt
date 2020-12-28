@@ -1,0 +1,5 @@
+# block definitions
+bdef symbol:a height:30 width:40 hit_points:1 fill:image(block_images/alien.png)
+
+# spacers definitions
+sdef symbol:- width:10
